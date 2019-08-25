@@ -1,0 +1,29 @@
+git clone === puxa o http do github
+
+git add . === adicionar todos ou arquivos
+
+git commit -m "..." === comitar e por o comentario do commit
+
+git remote add origin === adiciona o HTTP caso não clonou
+
+git remote -v == HTTP atual da sua branch
+
+git push origin (nome da branch) === enviar para o GitHub em sua Branch atual
+
+git status === mostra a brach atual
+
+git pull origin (nome da branch do AMIGUINHO) === add os arquivos de outra branch
+
+git merge (nome da branch a se juntar ao master) === união das branch
+
+git checkout -b (nome da branch) === cria uma branch
+
+git checkout (nome da branch) === para trocar a branch atual pela escolhida
+
+git branch === mostra todas as branch no projeto
+
+git branch -d (nome da branch) === para deletar a branch escolhida
+
+git push origin :(nome da branch) === deleta a branch no GitHub
+
+http://www.devfuria.com.br/git/tutorial-iniciando-git/
